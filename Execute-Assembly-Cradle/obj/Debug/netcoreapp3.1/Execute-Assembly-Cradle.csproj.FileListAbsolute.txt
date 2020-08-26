@@ -1,0 +1,13 @@
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\bin\Debug\netcoreapp3.1\Execute-Assembly-Cradle.exe
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\bin\Debug\netcoreapp3.1\Execute-Assembly-Cradle.deps.json
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\bin\Debug\netcoreapp3.1\Execute-Assembly-Cradle.runtimeconfig.json
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\bin\Debug\netcoreapp3.1\Execute-Assembly-Cradle.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\bin\Debug\netcoreapp3.1\Execute-Assembly-Cradle.dll
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\bin\Debug\netcoreapp3.1\Execute-Assembly-Cradle.pdb
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\obj\Debug\netcoreapp3.1\Execute-Assembly-Cradle.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\obj\Debug\netcoreapp3.1\Execute-Assembly-Cradle.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\obj\Debug\netcoreapp3.1\Execute-Assembly-Cradle.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\obj\Debug\netcoreapp3.1\Execute-Assembly-Cradle.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\obj\Debug\netcoreapp3.1\Execute-Assembly-Cradle.dll
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\obj\Debug\netcoreapp3.1\Execute-Assembly-Cradle.pdb
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly-Cradle\obj\Debug\netcoreapp3.1\Execute-Assembly-Cradle.genruntimeconfig.cache

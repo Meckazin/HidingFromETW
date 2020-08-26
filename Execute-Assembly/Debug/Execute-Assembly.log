@@ -1,0 +1,3 @@
+﻿  Execute-Assembly.cpp
+C:\Users\admin\Source\Repos\HidingFromETW\Execute-Assembly\Execute-Assembly.cpp(14,10): warning C4101: 'hr': unreferenced local variable
+  Execute-Assembly.vcxproj -> C:\Users\admin\Source\Repos\HidingFromETW\Debug\Execute-Assembly.exe

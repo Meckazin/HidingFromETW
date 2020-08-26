@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mYuUVorR7lK/MZsl84EcIU9EKVXfmA9+3nWqzNtMvzfWvgoa0jpTwOifWuJ7YuV3hjJYF+Ycx3kjJXS7DFxCYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Source\\Repos\\HidingFromETW\\dotnet-etw-trace-sharp\\dotnet-etw-trace-sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.diagnostics.tracing.traceevent\\2.0.58\\microsoft.diagnostics.tracing.traceevent.2.0.58.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
